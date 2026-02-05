@@ -4,10 +4,7 @@
 این بخش رو هم می‌تونی توی README بذاری، هم جدا به کاربرا بدی:
 
 ```bash
-git clone https://github.com/Arash-Ariaye/GRE-TUN.git
-cd GRE-TUN
-chmod +x GRETUN.sh
-sudo ./GRETUN.sh
+bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Arash-Ariaye/GRE-TUN/refs/heads/main/GRETUN.sh)
 ```
 
 📌 ترتیب اجرا:
