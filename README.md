@@ -1,7 +1,6 @@
 
 ## 🚀 دستورات نصب آسان (Quick Install)
 
-این بخش رو هم می‌تونی توی README بذاری، هم جدا به کاربرا بدی:
 
 ```bash
 bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Arash-Ariaye/GRE-TUN/refs/heads/main/GRETUN.sh)
